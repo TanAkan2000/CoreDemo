@@ -1,0 +1,34 @@
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.deps.json
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.runtimeconfig.json
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.dll
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.pdb
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.AssemblyReference.cache
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfo.cs
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CopyComplete
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.dll
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/refint/DataAccessLayer.dll
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.pdb
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.genruntimeconfig.cache
+/Users/tanakan/Projects/CoreDemo/DataAccessLayer/obj/Debug/net6.0/ref/DataAccessLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

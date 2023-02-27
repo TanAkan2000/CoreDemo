@@ -1,0 +1,24 @@
+/Users/tanakan/Projects/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.deps.json
+/Users/tanakan/Projects/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/tanakan/Projects/CoreDemo/EntityLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfo.cs
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.dll
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/refint/EntityLayer.dll
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
+/Users/tanakan/Projects/CoreDemo/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\MSI GL75\Desktop\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
