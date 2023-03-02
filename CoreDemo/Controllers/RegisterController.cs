@@ -27,7 +27,6 @@ namespace CoreDemo.Controllers
         {
             WriterValidator wv = new WriterValidator();
             ValidationResult results = wv.Validate(p);
-
             if (results.IsValid)
             {
                 p.WriterStatus = true;
