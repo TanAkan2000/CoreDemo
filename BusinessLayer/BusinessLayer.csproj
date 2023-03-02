@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Npgsql" Version="7.0.2" />
+    <PackageReference Include="FluentValidation" Version="11.5.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +21,8 @@
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
     <None Remove="ValidationRules\" />
+    <None Remove="FluentValidation" />
+    <None Remove="FluentValidation.AspNetCore" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ValidationRules\" />

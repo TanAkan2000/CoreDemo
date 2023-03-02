@@ -20,6 +20,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.12" />
     <PackageReference Include="Npgsql" Version="7.0.2" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.3" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="FluentValidation" Version="11.5.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -31,9 +33,21 @@
   <ItemGroup>
     <None Remove="ViewComponents\Comment\" />
     <None Remove="Views\Shared\Components\CommentListByBlog\" />
+    <None Remove="ViewComponents\Category\" />
+    <None Remove="Views\Shared\Components\CategoryList\" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="FluentValidation" />
+    <None Remove="Views\Login\" />
+    <None Remove="ViewComponents\Blog\" />
+    <None Remove="Views\Shared\Components\WriterLastBlog\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewComponents\Comment\" />
     <Folder Include="Views\Shared\Components\CommentListByBlog\" />
+    <Folder Include="ViewComponents\Category\" />
+    <Folder Include="Views\Shared\Components\CategoryList\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="ViewComponents\Blog\" />
+    <Folder Include="Views\Shared\Components\WriterLastBlog\" />
   </ItemGroup>
 </Project>
