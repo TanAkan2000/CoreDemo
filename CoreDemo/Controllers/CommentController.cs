@@ -13,11 +13,22 @@ namespace CoreDemo.Controllers
 		{
 			return View();
 		}
+		[HttpGet]
 		public PartialViewResult PartialAddComment()
 		{
 			return PartialView();
 		}
-		public PartialViewResult CommentPartialListByBlog(int id)
+        [HttpPost]
+        public PartialViewResult PartialAddComment(Comment p)
+        {
+			//TODO postgresql datetime nasıl importlanır
+			p.CommentDate = DateTime.Parse(DateTime.Now.ToShortDateString());
+			p.CommentStatus = true;
+			p.BlogId = 2;
+			cm.CommentAdd(p);
+            return PartialView();
+        }
+        public PartialViewResult CommentPartialListByBlog(int id)
 		{
 			var values =cm.GetList(id);
 			return PartialView(values);

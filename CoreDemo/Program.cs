@@ -34,6 +34,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1","?Code=0");
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

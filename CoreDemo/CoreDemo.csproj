@@ -40,6 +40,9 @@
     <None Remove="Views\Login\" />
     <None Remove="ViewComponents\Blog\" />
     <None Remove="Views\Shared\Components\WriterLastBlog\" />
+    <None Remove="Views\NewsLetter\" />
+    <None Remove="Views\ErrorPage\" />
+    <None Remove="Views\About\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewComponents\Comment\" />
@@ -49,5 +52,8 @@
     <Folder Include="Views\Login\" />
     <Folder Include="ViewComponents\Blog\" />
     <Folder Include="Views\Shared\Components\WriterLastBlog\" />
+    <Folder Include="Views\NewsLetter\" />
+    <Folder Include="Views\ErrorPage\" />
+    <Folder Include="Views\About\" />
   </ItemGroup>
 </Project>
