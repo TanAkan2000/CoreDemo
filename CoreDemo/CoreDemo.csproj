@@ -43,6 +43,8 @@
     <None Remove="Views\NewsLetter\" />
     <None Remove="Views\ErrorPage\" />
     <None Remove="Views\About\" />
+    <None Remove="Views\Contact\" />
+    <None Remove="Views\Writer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewComponents\Comment\" />
@@ -55,5 +57,7 @@
     <Folder Include="Views\NewsLetter\" />
     <Folder Include="Views\ErrorPage\" />
     <Folder Include="Views\About\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Writer\" />
   </ItemGroup>
 </Project>
