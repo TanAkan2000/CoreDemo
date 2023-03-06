@@ -54,6 +54,10 @@ namespace BusinessLayer.Concrete
 		{
             return _blogDal.GetListAll();
         }
+        public List<Blog>GetLast3Blog(int v)
+        {
+            return _blogDal.GetListAll().Take(3).ToList();
+        }
 
         void IBlogService.BlogAdd(Blog blog)
         {
@@ -84,6 +88,11 @@ namespace BusinessLayer.Concrete
         {
             
             return _blogDal.GetListAll(x => x.WriterID == id);
+        }
+
+        public object GetLast3Blog()
+        {
+            throw new NotImplementedException();
         }
     }
 }

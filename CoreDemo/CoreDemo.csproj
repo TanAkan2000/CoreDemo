@@ -52,7 +52,6 @@
     <Folder Include="ViewComponents\Category\" />
     <Folder Include="Views\Shared\Components\CategoryList\" />
     <Folder Include="Views\Login\" />
-    <Folder Include="ViewComponents\Blog\" />
     <Folder Include="Views\Shared\Components\WriterLastBlog\" />
     <Folder Include="Views\NewsLetter\" />
     <Folder Include="Views\ErrorPage\" />
