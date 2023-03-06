@@ -5,6 +5,7 @@ namespace BusinessLayer.Abstract
 {
 	public interface IAboutService
 	{
+        //list
         List<About> GetList();
     }
 }
