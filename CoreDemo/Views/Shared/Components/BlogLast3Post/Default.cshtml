@@ -2,29 +2,32 @@
 @model List<Blog>
 
 <div class="tech-btm">
+	@foreach(var item in Model)
+		{
+			
 	<h3>Son postlar</h3>
 	<div class="blog-grids row mb-3">
 		<div class="col-md-5 blog-grid-left">
-			<a href="single.html">
-				<img src="~/web/images/4.jpg" class="card-img-top img-fluid" alt="">
+			<a href="/Blog/BlogReadAll/@item.BlogId">
+				<img src="@item.BlogImage" class="card-img-top img-fluid" alt="">
 			</a>
 		</div>
-		@foreach(var item in Model)
-		{
-			
+		
 		
 		<div class="col-md-7 blog-grid-right">
 
 			<h5>
-				<a href="single.html">Pellentesque dui, non felis. Maecenas male non felis </a>
+					<a href="/Blog/BlogReadAll/@item.BlogId">@item.BlogContent.Substring(0,item.BlogContent.Substring(0,50).LastIndexOf(" "))...</a>
 			</h5>
 			<div class="sub-meta">
 				<span>
-					<i class="far fa-clock"></i> 20 Jan, 2018
+						<i class="far fa-clock"></i> @(((DateTime)
+								item.BlogCreateDate).ToString("dd-MMM-yyyy"))
+											
 				</span>
 			</div>
 		</div>
-		}
+		
 	</div>
-
+	}
 </div>
