@@ -38,6 +38,9 @@ builder.Services.AddMvc(config =>
 
 var app = builder.Build();
 
+//FIX: Postgre Date Utc
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
