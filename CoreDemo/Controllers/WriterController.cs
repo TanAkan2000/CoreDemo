@@ -12,7 +12,7 @@ namespace CoreDemo.Controllers
     
     public class WriterController : Controller
     {
-        [AllowAnonymous]
+        
         // GET: /<controller>/
         public IActionResult Index()
         {
