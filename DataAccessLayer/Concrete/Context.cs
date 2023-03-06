@@ -15,7 +15,7 @@ namespace CoreDemo.EFCore
     {
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseNpgsql("Server=localhost;Database=CoreBlogDb;Port=5432;User Id=postgres;Password=3PFZKS;");
+            options.UseNpgsql("Server=localhost;Database=CoreBlogDb;Port=5432;User Id=postgres;Password=Kantuat6668;");
         }
 
         public DbSet<About> Abouts { get; set; }
