@@ -16,24 +16,9 @@ namespace BusinessLayer.Concrete
             _categoryDal = categoryDal;
         }
 
-        public void CategoryAdd(Category category)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void CategoryDelete(Category category)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void CategoryUpdate(Category category)
-        {
-            throw new NotImplementedException();
-        }
-
         public Category GetById(int id)
         {
-            throw new NotImplementedException();
+            return _categoryDal.GetById(id);
         }
 
         public List<Category> GetList()
@@ -43,30 +28,36 @@ namespace BusinessLayer.Concrete
             return _categoryDal.GetListAll();
         }
 
-        void ICategoryService.CategoryAdd(Category category)
+        public void TAdd(Category t)
         {
-            _categoryDal.Insert(category);
+            _categoryDal.Insert(t);
         }
 
-        void ICategoryService.CategoryDelete(Category category)
+        public void TDelete(Category t)
         {
-            _categoryDal.Delete(category);
+            _categoryDal.Delete(t);
         }
 
-        void ICategoryService.CategoryUpdate(Category category)
+        public void TUpdate(Category t)
         {
-            _categoryDal.Update(category);
+            _categoryDal.Update(t);
         }
 
-        Category ICategoryService.GetById(int id)
-        {
-            return _categoryDal.GetById(id);
-        }
+        //void ICategoryService.CategoryAdd(Category category)
+        //{
+        //    _categoryDal.Insert(category);
+        //}
 
-        List<Category> ICategoryService.GetList()
-        {
-            return _categoryDal.GetListAll();
-        }
+        //void ICategoryService.CategoryDelete(Category category)
+        //{
+        //    _categoryDal.Delete(category);
+        //}
+
+        //void ICategoryService.CategoryUpdate(Category category)
+        //{
+        //    _categoryDal.Update(category);
+        //}
+
     }
 }
 

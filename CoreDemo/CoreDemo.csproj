@@ -45,6 +45,9 @@
     <None Remove="Views\About\" />
     <None Remove="Views\Contact\" />
     <None Remove="Views\Writer\" />
+    <None Remove="ViewComponents\Writer\" />
+    <None Remove="Views\Shared\Components\WriterMessageNotification\" />
+    <None Remove="Views\Shared\Components\WriterNotification\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewComponents\Comment\" />
@@ -58,5 +61,8 @@
     <Folder Include="Views\About\" />
     <Folder Include="Views\Contact\" />
     <Folder Include="Views\Writer\" />
+    <Folder Include="ViewComponents\Writer\" />
+    <Folder Include="Views\Shared\Components\WriterMessageNotification\" />
+    <Folder Include="Views\Shared\Components\WriterNotification\" />
   </ItemGroup>
 </Project>
