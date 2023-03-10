@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CoreDemo.Controllers
 {
-    public class NewLetterController : Controller
+    public class NewsLetterController : Controller
     {
         NewsLetterManager nl = new NewsLetterManager(new EfNewsLetterRepository());
         [HttpGet]
@@ -26,6 +26,14 @@ namespace CoreDemo.Controllers
             nl.AddNewsLetter(p);
             return PartialView();
         }
+        //[HttpPost]
+        //public IActionResult SubMail(NewsLetter p)
+        //{
+
+        //    p.MailStatus = true;
+        //    nl.AddNewsLetter(p);
+        //    return RedirectToAction("Blog/Index");
+        //}
     }
 }
 

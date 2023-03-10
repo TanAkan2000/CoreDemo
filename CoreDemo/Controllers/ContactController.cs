@@ -26,7 +26,7 @@ namespace CoreDemo.Controllers
         {
             p.ContactStatus = true;
             cm.ContactAdd(p);
-            return RedirectToAction("Index", "Blog");
+            return RedirectToAction("Index", "Contact");
         }
     }
 }

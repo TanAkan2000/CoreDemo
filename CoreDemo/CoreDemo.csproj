@@ -48,6 +48,8 @@
     <None Remove="ViewComponents\Writer\" />
     <None Remove="Views\Shared\Components\WriterMessageNotification\" />
     <None Remove="Views\Shared\Components\WriterNotification\" />
+    <None Remove="Views\Dashboard\" />
+    <None Remove="Views\Shared\Components\BlogListDashBoard\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewComponents\Comment\" />
@@ -64,5 +66,7 @@
     <Folder Include="ViewComponents\Writer\" />
     <Folder Include="Views\Shared\Components\WriterMessageNotification\" />
     <Folder Include="Views\Shared\Components\WriterNotification\" />
+    <Folder Include="Views\Dashboard\" />
+    <Folder Include="Views\Shared\Components\BlogListDashBoard\" />
   </ItemGroup>
 </Project>

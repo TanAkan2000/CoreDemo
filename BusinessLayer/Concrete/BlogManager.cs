@@ -27,6 +27,11 @@ namespace BusinessLayer.Concrete
             return _blogDal.GetListWithCategory();
         }
 
+        public List<Blog> Test(int id)
+        {
+            return _blogDal.GetListWithCategoryByWriter(id);
+        }
+
         public Blog GetById(int id)
 		{
             return _blogDal.GetById(id);
@@ -35,6 +40,7 @@ namespace BusinessLayer.Concrete
         {
             return _blogDal.GetListAll(x=>x.BlogId== id);
         }
+
 
 		public List<Blog> GetList()
 		{
@@ -69,6 +75,8 @@ namespace BusinessLayer.Concrete
         {
             throw new NotImplementedException();
         }
+
+
 
         //void IBlogService.BlogAdd(Blog blog)
         //{

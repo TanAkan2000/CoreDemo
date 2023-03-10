@@ -13,6 +13,7 @@ namespace DataAccessLayer.Concrete
         //void UpdateBlog(Blog blog);
 
         List<Blog> GetListWithCategory();
+        List<Blog> GetListWithCategoryByWriter(int id);
     }
 }
 
