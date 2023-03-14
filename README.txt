@@ -1,2 +1,0 @@
--use the default migration1 to create tables inside your database\
--use insert scripts to create example data}
